@@ -1,5 +1,5 @@
 # CS-Grad-Tracking
-Code Closer project for UNC-CH grad department
+Code Closer project for UNC-CH computer science department
 
 This project is assigned as part of the Code Closer Work-Study program at The Univsersity of North Carolina at Chapel Hill. 
 The clients of this project are all staff/administrators that work in Sitterson Hall as part of graduate program for computer science 
